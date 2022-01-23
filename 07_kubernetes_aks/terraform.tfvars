@@ -1,4 +1,4 @@
-resource_group_name = "MyRG"
+resource_group_name = "terraform_rg"
 location            = "UAE North"
 cluster_name        = "terraform-aks"
 kubernetes_version  = "1.19.3"
